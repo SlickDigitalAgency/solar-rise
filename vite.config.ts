@@ -11,8 +11,4 @@ export default defineConfig({
     tsconfigPaths(),
     tailwindcss(),
   ],
-
-  server: {
-    port: 5173,
-  },
 });
